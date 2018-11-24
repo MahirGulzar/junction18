@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ALERTS!</string>
+    <string name="txt_speed">--</string>
+    <string name="blockage_text">Road blockage in 500 meters</string>
+</resources>
